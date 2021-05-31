@@ -1,2 +1,2 @@
 # TensorFlow-Tutotrial
-Self Study TensorFlow
+Self Study TensorFlow 2.0
